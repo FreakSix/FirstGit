@@ -1,2 +1,2 @@
 Git is free software
-Freak Is Good
+Git is a distributed version control system
