@@ -2,6 +2,6 @@
 Git is a distributed version control system
 Created a new branch
 FreakSix
-How to manage branch123
+How to manage
 工作进行中...
 
