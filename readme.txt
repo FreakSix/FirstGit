@@ -1,7 +1,6 @@
-Git is a free software
+﻿ is a free software
 Git is a distributed version control system
 Created a new branch
 FreakSix
 How to manage branch
-C盘的Git工作中...
-
+D盘的Git工作中...
